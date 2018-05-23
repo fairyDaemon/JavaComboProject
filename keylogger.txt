@@ -1,0 +1,343 @@
+key code = 72 (H)
+h
+key code = 72 (H)
+key code = 68 (D)
+d
+key code = 74 (J)
+j
+key code = 74 (J)
+key code = 68 (D)
+key code = 67 (C)
+c
+key code = 72 (H)
+h
+key code = 67 (C)
+key code = 71 (G)
+g
+key code = 72 (H)
+key code = 71 (G)
+key code = 68 (D)
+d
+key code = 74 (J)
+j
+key code = 74 (J)
+key code = 68 (D)
+key code = 68 (D)
+d
+key code = 72 (H)
+h
+key code = 72 (H)
+key code = 68 (D)
+key code = 72 (H)
+h
+key code = 67 (C)
+c
+key code = 72 (H)
+key code = 75 (K)
+k
+key code = 67 (C)
+key code = 68 (D)
+d
+key code = 75 (K)
+key code = 68 (D)
+key code = 68 (D)
+d
+key code = 70 (F)
+f
+key code = 67 (C)
+c
+key code = 68 (D)
+key code = 70 (F)
+key code = 68 (D)
+d
+key code = 67 (C)
+key code = 70 (F)
+f
+key code = 70 (F)
+f
+key code = 70 (F)
+key code = 68 (D)
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+d
+key code = 68 (D)
+key code = 10 (Enter)
+
+
+key code = 10 (Enter)
+key code = 10 (Enter)
+
+
+key code = 10 (Enter)
+key code = 10 (Enter)
+
+
+key code = 10 (Enter)
+key code = 10 (Enter)
+
+
+key code = 10 (Enter)
+key code = 10 (Enter)
+
+
+key code = 10 (Enter)
+key code = 10 (Enter)
+
+
+key code = 10 (Enter)
+key code = 32 (Space)
+ 
+key code = 32 (Space)
+key code = 32 (Space)
+ 
+key code = 32 (Space)
+key code = 17 (Ctrl)
+key code = 18 (Alt)
+key code = 77 (M)
+key code = 17 (Ctrl)
+key code = 18 (Alt)
+key code = 32 (Space)
+ 
+key code = 77 (M)
+key code = 77 (M)
+m
+key code = 32 (Space)
+key code = 32 (Space)
+ 
+key code = 77 (M)
+key code = 77 (M)
+m
+key code = 32 (Space)
+key code = 77 (M)
+key code = 77 (M)
+m
+key code = 77 (M)
+key code = 73 (I)
+i
+key code = 73 (I)
+key code = 77 (M)
+m
+key code = 77 (M)
+key code = 74 (J)
+j
+key code = 85 (U)
+u
+key code = 77 (M)
+m
+key code = 74 (J)
+key code = 85 (U)
+key code = 85 (U)
+u
+key code = 77 (M)
+key code = 78 (N)
+n
+key code = 85 (U)
+key code = 85 (U)
+u
+key code = 78 (N)
+key code = 85 (U)
+key code = 77 (M)
+m
+key code = 73 (I)
+i
+key code = 77 (M)
+key code = 73 (I)
+key code = 77 (M)
+m
+key code = 77 (M)
+key code = 73 (I)
+i
+key code = 77 (M)
+m
+key code = 73 (I)
+key code = 73 (I)
+i
+key code = 77 (M)
+key code = 77 (M)
+m
+key code = 73 (I)
+key code = 73 (I)
+i
+key code = 77 (M)
+key code = 73 (I)
+key code = 18 (Alt)
